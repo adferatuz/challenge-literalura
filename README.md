@@ -51,3 +51,29 @@ Para ejecutar el proyecto localmente, sigue estos pasos:
 
 ---
 ## Uso
+
+Paso a paso de el menu de la aplicacion:
+
+1. Menú e inicio de la opcion 1:
+
+<img src="src/main/resources/static/img/menuopcion1.png" alt="Logo del proyecto" width="100" height="100">
+
+2. Resultado de la opcion 2:
+
+<img src="src/main/resources/static/img/menuopcion2.png" alt="Logo del proyecto" width="100" height="100">
+
+3. Resultado de la opcion 3:
+
+<img src="src/main/resources/static/img/menuopcion3.png" alt="Logo del proyecto" width="100" height="100">
+
+4. Resultado de la opcion 4:
+
+<img src="src/main/resources/static/img/menuopcion4.png" alt="Logo del proyecto" width="100" height="100">
+
+5. Resultado de la opcion 5:
+
+<img src="src/main/resources/static/img/menuopcion5.png" alt="Logo del proyecto" width="100" height="100">
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT.
