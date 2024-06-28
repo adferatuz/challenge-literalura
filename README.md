@@ -1,7 +1,7 @@
 <h1 align="center">literalura</h1>
 
 <p align="center">
-  <img src="src/main/resources/static/img/biblioteca.jpg" alt="Logo del proyecto">
+  <img src="src/main/resources/static/img/biblioteca.jpg" alt="Logo del proyecto" width="300" height="200">
 </p>
 
 ---
