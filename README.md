@@ -1,7 +1,7 @@
 <h1 align="center">literalura</h1>
 
 <p align="center">
-  <img src="ruta/a/la/imagen.jpg" alt="Logo del proyecto">
+  <img src="src/main/resources/static/img/biblioteca.jpg" alt="Logo del proyecto">
 </p>
 
 ---
@@ -12,11 +12,8 @@
 2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 3. [Dependencias](#dependencias)
 4. [Instalación](#instalación)
-5. [Configuración](#configuración)
-6. [Uso](#uso)
-7. [Contribución](#contribución)
-8. [Licencia](#licencia)
-
+5. [Uso](#uso)
+6. [Licencia](#licencia)
 ---
 
 ## Descripción del Proyecto
@@ -51,3 +48,6 @@ Para ejecutar el proyecto localmente, sigue estos pasos:
 
    ```bash
    git clone https://github.com/tu_usuario/tu_repositorio.git
+
+---
+## Uso
